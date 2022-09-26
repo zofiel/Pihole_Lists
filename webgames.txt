@@ -21,3 +21,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 #=====================================
 0.0.0.0 www.crazygames.com
+0.0.0.0 Juegosjuegos.com
+0.0.0.0 1001juegos.com
+0.0.0.0 Todojuegosgratis.es
+0.0.0.0 Juegos.com
+0.0.0.0 Minijuegos.com
+0.0.0.0 Juegosdiarios.com
+0.0.0.0 Mundijuegos.com
+0.0.0.0 Addictinggames.com
+0.0.0.0 Friv.com
