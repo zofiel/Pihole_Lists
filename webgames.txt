@@ -7,12 +7,22 @@
 # Date: 26 September 2022 
 # ===============================================================
 0.0.0.0 www.crazygames.com
+0.0.0.0 crazygames.com
 0.0.0.0 www.juegosjuegos.com
+0.0.0.0 juegosjuegos.com
 0.0.0.0 www.1001juegos.com
+0.0.0.0 1001juegos.com
 0.0.0.0 www.todojuegosgratis.es
+0.0.0.0 todojuegosgratis.es
 0.0.0.0 www.juegos.com
+0.0.0.0 juegos.com
 0.0.0.0 www.minijuegos.com
+0.0.0.0 minijuegos.com
 0.0.0.0 www.juegosdiarios.com
+0.0.0.0 juegosdiarios.com
 0.0.0.0 www.mundijuegos.com
+0.0.0.0 mundijuegos.com
 0.0.0.0 www.addictinggames.com
+0.0.0.0 addictinggames.com
 0.0.0.0 www.friv.com
+0.0.0.0 friv.com
