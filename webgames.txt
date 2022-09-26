@@ -1,6 +1,8 @@
 # Title: webgames adlist
 #
-# This hosts file is a  collection of hosts from webgames,
+# This hosts file is a  collection of hosts from webgames
+#
+# Este fichero hoszt es una coleccion de portales de juego online web
 #
 # Date: 26 September 2022 
 # ===============================================================
