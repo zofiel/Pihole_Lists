@@ -4,7 +4,7 @@
 #
 # Este fichero host es una coleccion de diferentes webs
 #
-# Date: 26 September 2022 
+# Date: 05 de Diciembre de 2022 
 # ===============================================================
 0.0.0.0 www.marca.es
 0.0.0.0 marca.es
