@@ -10,3 +10,5 @@
 0.0.0.0 marca.es
 0.0.0.0 www.marca.com
 0.0.0.0 marca.com
+0.0.0.0 www.as.com
+0.0.0.0 as.com
