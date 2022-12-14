@@ -4,7 +4,7 @@
 #
 # Este fichero host es una coleccion de portales de juego online web
 #
-# Date: 26 September 2022 
+# Date: 14 de Diciembre 2022 
 # ===============================================================
 0.0.0.0 www.crazygames.com
 0.0.0.0 crazygames.com
@@ -28,3 +28,5 @@
 0.0.0.0 friv.com
 0.0.0.0 www.juga.es
 0.0.0.0 juga.es
+0.0.0.0 poki.com
+0.0.0.0 www.poki.com
